@@ -1,9 +1,9 @@
-#include "_putchar.h"
+#include "holberton.h"
 
 /**
-* main - prints _putchar followed by a new line
-* Result: Always 0 (Success)
-*/
+ * main -  prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	_putchar('_');
