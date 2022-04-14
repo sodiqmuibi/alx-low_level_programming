@@ -1,1 +1,1 @@
-Exercises on malloc and free
+Exercises on structures typedef
