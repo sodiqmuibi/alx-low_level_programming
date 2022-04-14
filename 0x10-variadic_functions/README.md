@@ -1,1 +1,1 @@
-Exercises on static libraries
+Exercises on variadic functions
