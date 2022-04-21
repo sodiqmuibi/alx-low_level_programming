@@ -1,1 +1,1 @@
-Exercises on variadic functions
+Exercises on singly linked lists
