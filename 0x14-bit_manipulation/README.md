@@ -1,1 +1,1 @@
-Exercises on singly linked lists
+Exercises on bit manipulation
